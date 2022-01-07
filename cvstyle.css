@@ -1,0 +1,107 @@
+ *{
+    margin:0px;
+    padding:0px;
+}
+.main-body{ 
+    margin: 0 auto;
+    width:1020px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+/*This is left part */
+
+.left{
+    width:220px;
+    color:#ffffff;
+    float: left;
+    background:#000066;
+    padding:13px 35px;
+}
+.left img{
+    padding:25px 0px;
+    width:150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: inline-block;
+}
+.about_me h2,.contact h2,.skills h2,.tec_skills h2{
+    padding:3px 0px 0px 5px;
+    margin: 11px 0;
+    background:#879caf;
+}
+.about_me p{
+    text-align:justify;
+    text-justify:inter-word;
+}
+.contact td{
+    padding:3px;
+}
+.skills li{
+    padding:3px 0px;
+}
+.tec_skills li{
+    padding:3px 0px;
+}
+
+
+/*This is right part */
+
+.right{
+    background:#aac2d8;
+    width:560px;
+    float: left;
+}
+#header{ 
+    background:#000066;
+    color: #ffffff
+}
+.on{
+    padding:25px 0px 0px 0px;
+    text-align:center;
+}
+.on p{
+    font-size:25px;
+}
+.headding{
+    text-align:center;
+    text-transform: uppercase;
+}
+.headding h1{
+    font-size:35px;
+    padding:5px 0px 15px 0px;
+}
+.right_body{
+    padding:10px 35px
+}
+.career_object h2,.education h2,.exprience h2,.soft_skill h2{
+    background:#6e889e;
+    padding:10px 0px 10px 5px;
+    margin: 10px 0;
+}
+.career_object p{
+    text-align:justify;
+}
+.education table{
+    border:3px solid black;
+}
+.education table td{
+    text-align:center;
+}
+.j1 ul,.skills ul,.tec_skills ul{
+    padding:0px 35px;
+}
+.j1 li{
+    padding:3px 0px;
+}
+.exprience p{
+    padding:3px 0px;
+}
+footer{
+    display: block;
+    padding: 30px 0;
+    float: left;
+
+}
+
+
